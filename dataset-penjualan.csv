@@ -1,0 +1,101 @@
+WAKTU TRANSAKSI;ID TRANSAKSI;NAMA BARANG;KATEGORI BARANG;HARGA BARANG SATUAN;KUANTITAS;TOTAL PENDAPATAN;DISKON (%);HARGA SETELAH DISKON;NAMA TOKO;KOTA TOKO;PROVINSI TOKO
+29/05/2024 14:44;PO-192086607;Tepung Terigu;Sembako;69.268;19;1.316.092;2;1.289.770;Perum Sihombing;Surabaya;Jawa Timur
+12/06/2024 08:00;PO-762398128;Beras;Sembako;44.567;5;222.835;27;162.670;PD Sihombing Zulaika;Medan;Sumatera Utara
+16/01/2024 17:20;PO-489729865;Kecap Manis;Bumbu Dapur;43.613;3;130.839;19;105.980;Perum Nainggolan;Denpasar;Bali
+10/04/2024 13:16;PO-787794994;Kopi;Minuman;46.891;17;797.147;25;597.860;PD Handayani;Bandung;Jawa Barat
+17/07/2024 13:25;PO-789744634;Saus Sambal;Bumbu Dapur;22.243;4;88.972;23;68.508;CV Hasanah Tbk;Jakarta;DKI Jakarta
+07/07/2024 17:10;PO-679935240;Minyak Goreng;Sembako;96.939;3;290.817;21;229.745;PT Gunarto;Semarang;Jawa Tengah
+06/06/2024 06:15;PO-409114370;Kopi;Minuman;98.639;11;1.085.029;19;878.873;UD Dongoran Nurdiyanti (Persero) Tbk;Denpasar;Bali
+27/04/2024 19:04;PO-149451194;Gula;Sembako;42.993;14;601.902;14;517.636;PT Utami Mardhiyah;Balikpapan;Kalimantan Timur
+04/07/2024 02:12;PO-340609600;Kecap Manis;Bumbu Dapur;87.293;17;1.483.981;20;1.187.185;Perum Samosir Latupono (Persero) Tbk;Semarang;Jawa Tengah
+19/05/2024 01:15;PO-006544543;Teh;Minuman;56.026;8;448.208;21;354.084;Perum Anggraini Hutasoit (Persero) Tbk;Semarang;Jawa Tengah
+25/03/2024 20:02;PO-987956299;Kopi;Minuman;81.471;10;814.710;29;578.444;PT Januar Agustina (Persero) Tbk;Denpasar;Bali
+15/07/2024 00:01;PO-418711348;Teh;Minuman;81.966;1;81.966;3;79.507;PD Astuti;Palembang;Sumatera Selatan
+24/02/2024 02:07;PO-463433928;Minyak Goreng;Sembako;49.600;11;545.600;3;529.232;PT Mandasari Simbolon Tbk;Denpasar;Bali
+19/04/2024 10:55;PO-363024422;Saus Sambal;Bumbu Dapur;40.512;19;769.728;7;715.847;UD Hidayanto;Jakarta;DKI Jakarta
+24/02/2024 06:31;PO-151890924;Beras;Sembako;53.620;12;643.440;9;585.530;UD Dabukke;Bandung;Jawa Barat
+06/02/2024 19:53;PO-123786418;Kopi;Minuman;81.186;3;243.558;9;221.638;UD Nugroho (Persero) Tbk;Palembang;Sumatera Selatan
+07/04/2024 06:53;PO-508118625;Tepung Terigu;Sembako;18.089;3;54.267;9;49.383;UD Hidayanto Riyanti;Makassar;Sulawesi Selatan
+25/07/2024 19:51;PO-701751172;Beras;Sembako;33.230;4;132.920;23;102.348;CV Adriansyah Putra;Surabaya;Jawa Timur
+27/02/2024 01:46;PO-935971245;Minyak Goreng;Sembako;19.983;4;79.932;3;77.534;PT Sihombing;Jakarta;DKI Jakarta
+30/04/2024 10:47;PO-582046682;Tepung Terigu;Sembako;90.688;19;1.723.072;14;1.481.842;PT Suartini (Persero) Tbk;Balikpapan;Kalimantan Timur
+08/02/2024 08:32;PO-418157091;Mie Instan;Makanan;83.457;15;1.251.855;26;926.373;CV Hasanah Kusumo;Palembang;Sumatera Selatan
+29/01/2024 15:19;PO-607287034;Mie Instan;Makanan;94.005;4;376.020;18;308.336;UD Rajata Mustofa (Persero) Tbk;Bandung;Jawa Barat
+08/05/2024 05:39;PO-838438365;Mie Instan;Makanan;7.921;18;142.578;12;125.469;UD Sitorus Kusmawati;Medan;Sumatera Utara
+02/07/2024 08:41;PO-947989856;Kecap Manis;Bumbu Dapur;39.804;19;756.276;3;733.588;UD Puspasari Tbk;Makassar;Sulawesi Selatan
+09/02/2024 02:36;PO-641986955;Susu Kental Manis;Minuman;68.699;15;1.030.485;9;937.741;Perum Hutapea Jailani;Makassar;Sulawesi Selatan
+17/05/2024 09:34;PO-019990449;Gula;Sembako;71.608;10;716.080;10;644.472;CV Waluyo (Persero) Tbk;Yogyakarta;DI Yogyakarta
+17/06/2024 14:46;PO-551923613;Gula;Sembako;38.619;2;77.238;27;56.384;CV Sihotang Melani;Surabaya;Jawa Timur
+02/05/2024 19:10;PO-662409562;Gula;Sembako;8.877;5;44.385;13;38.615;CV Nashiruddin Siregar;Yogyakarta;DI Yogyakarta
+20/03/2024 09:52;PO-526936709;Gula;Sembako;84.966;11;934.626;7;869.202;PD Wijayanti (Persero) Tbk;Jakarta;DKI Jakarta
+04/07/2024 06:03;PO-043464665;Tepung Terigu;Sembako;2.871;12;34.452;7;32.040;Perum Damanik Wijaya;Bandung;Jawa Barat
+20/06/2024 22:12;PO-683393589;Mie Instan;Makanan;74.135;9;667.215;29;473.723;PT Mustofa;Jakarta;DKI Jakarta
+21/07/2024 11:22;PO-096477555;Saus Sambal;Bumbu Dapur;3.496;12;41.952;21;33.142;UD Pudjiastuti Agustina (Persero) Tbk;Balikpapan;Kalimantan Timur
+11/04/2024 03:57;PO-840240137;Teh;Minuman;48.954;3;146.862;1;145.393;UD Uyainah Thamrin (Persero) Tbk;Jakarta;DKI Jakarta
+25/01/2024 04:29;PO-656789561;Kecap Manis;Bumbu Dapur;25.675;17;436.475;12;384.098;PD Usamah Uwais;Balikpapan;Kalimantan Timur
+06/01/2024 10:52;PO-978956997;Saus Sambal;Bumbu Dapur;32.921;1;32.921;2;32.263;PD Wasita;Denpasar;Bali
+06/02/2024 05:21;PO-493951334;Tepung Terigu;Sembako;1.797;1;1.797;2;1.761;PD Sinaga;Denpasar;Bali
+03/06/2024 21:18;PO-550255054;Minyak Goreng;Sembako;50.811;7;355.677;24;270.315;CV Wahyudin Sihombing Tbk;Denpasar;Bali
+01/01/2024 10:39;PO-915708127;Saus Sambal;Bumbu Dapur;69.755;15;1.046.325;1;1.035.862;CV Kurniawan;Palembang;Sumatera Selatan
+10/07/2024 16:28;PO-193899348;Minyak Goreng;Sembako;81.782;11;899.602;5;854.622;PT Puspita (Persero) Tbk;Yogyakarta;DI Yogyakarta
+09/05/2024 09:02;PO-032034527;Minyak Goreng;Sembako;91.535;9;823.815;8;757.910;PD Nashiruddin Andriani Tbk;Surabaya;Jawa Timur
+04/04/2024 17:24;PO-923905963;Minyak Goreng;Sembako;82.857;14;1.159.998;4;1.113.598;CV Hasanah Siregar;Yogyakarta;DI Yogyakarta
+06/05/2024 07:07;PO-242049595;Susu Kental Manis;Minuman;53.489;3;160.467; -   ;160.467;UD Hariyah Usamah;Denpasar;Bali
+25/01/2024 11:03;PO-833916573;Beras;Sembako;85.665;4;342.660;11;304.967;PD Putra;Semarang;Jawa Tengah
+15/03/2024 04:52;PO-979316749;Saus Sambal;Bumbu Dapur;42.504;3;127.512;2;124.962;PT Hassanah Tbk;Denpasar;Bali
+27/03/2024 02:25;PO-100131279;Teh;Minuman;50.866;12;610.392;5;579.872;CV Salahudin;Bandung;Jawa Barat
+02/04/2024 16:03;PO-540452792;Kecap Manis;Bumbu Dapur;85.212;14;1.192.968;21;942.445;UD Palastri;Balikpapan;Kalimantan Timur
+25/02/2024 08:08;PO-112654960;Saus Sambal;Bumbu Dapur;97.766;17;1.662.022;16;1.396.098;PD Halimah Iswahyudi;Makassar;Sulawesi Selatan
+29/07/2024 21:01;PO-291934593;Kopi;Minuman;12.723;9;114.507;8;105.346;CV Palastri Waskita Tbk;Makassar;Sulawesi Selatan
+22/06/2024 23:22;PO-472959705;Minyak Goreng;Sembako;44.890;9;404.010;29;286.847;PT Saputra;Balikpapan;Kalimantan Timur
+05/02/2024 10:11;PO-720301560;Kecap Manis;Bumbu Dapur;18.591;9;167.319;1;165.646;PT Rajasa;Palembang;Sumatera Selatan
+01/02/2024 05:48;PO-484431325;Minyak Goreng;Sembako;59.146;3;177.438;17;147.274;Perum Prastuti Widodo Tbk;Makassar;Sulawesi Selatan
+04/05/2024 07:07;PO-281431398;Kopi;Minuman;93.288;4;373.152;16;313.448;UD Thamrin;Surabaya;Jawa Timur
+16/07/2024 06:20;PO-221382855;Gula;Sembako;60.300;13;783.900;3;760.383;CV Riyanti (Persero) Tbk;Makassar;Sulawesi Selatan
+09/07/2024 00:29;PO-491464985;Mie Instan;Makanan;90.141;15;1.352.115;24;1.027.607;PT Saptono;Balikpapan;Kalimantan Timur
+12/02/2024 08:29;PO-292517314;Kecap Manis;Bumbu Dapur;72.557;1;72.557;27;52.967;Perum Siregar (Persero) Tbk;Yogyakarta;DI Yogyakarta
+27/04/2024 01:41;PO-766011380;Beras;Sembako;21.006;5;105.030;8;96.628;CV Hidayat Agustina;Palembang;Sumatera Selatan
+23/04/2024 01:09;PO-294351413;Kopi;Minuman;4.560;4;18.240;20;14.592;UD Nurdiyanti (Persero) Tbk;Denpasar;Bali
+18/02/2024 11:19;PO-397573973;Teh;Minuman;91.868;14;1.286.152;4;1.234.706;Perum Jailani Zulkarnain;Makassar;Sulawesi Selatan
+09/05/2024 05:27;PO-530840652;Teh;Minuman;62.713;12;752.556;16;632.147;UD Siregar Handayani Tbk;Yogyakarta;DI Yogyakarta
+28/07/2024 19:48;PO-248087859;Beras;Sembako;97.591;14;1.366.274;25;1.024.706;CV Maheswara Lazuardi;Medan;Sumatera Utara
+19/03/2024 21:58;PO-019907994;Kecap Manis;Bumbu Dapur;46.444;14;650.216;3;630.710;PD Rahayu Hastuti (Persero) Tbk;Yogyakarta;DI Yogyakarta
+21/04/2024 17:09;PO-053359921;Minyak Goreng;Sembako;47.522;12;570.264;7;530.346;UD Usamah Tbk;Makassar;Sulawesi Selatan
+21/06/2024 19:35;PO-023680672;Minyak Goreng;Sembako;87.904;17;1.494.368;28;1.075.945;CV Kuswandari Lestari Tbk;Semarang;Jawa Tengah
+05/02/2024 14:04;PO-995232108;Teh;Minuman;21.737;15;326.055;3;316.273;PT Handayani Salahudin (Persero) Tbk;Jakarta;DKI Jakarta
+29/05/2024 11:32;PO-489000514;Minyak Goreng;Sembako;29.647;17;503.999;18;413.279;PT Oktaviani Pratama (Persero) Tbk;Semarang;Jawa Tengah
+03/05/2024 03:05;PO-419811714;Kecap Manis;Bumbu Dapur;62.353;2;124.706;29;88.541;PD Wijaya (Persero) Tbk;Bandung;Jawa Barat
+04/04/2024 00:36;PO-362158718;Kecap Manis;Bumbu Dapur;93.217;9;838.953;17;696.331;PT Winarsih;Surabaya;Jawa Timur
+22/04/2024 18:04;PO-485682841;Minyak Goreng;Sembako;81.163;1;81.163;1;80.351;PT Tarihoran Gunarto (Persero) Tbk;Balikpapan;Kalimantan Timur
+12/03/2024 09:46;PO-729843782;Tepung Terigu;Sembako;13.134;5;65.670;18;53.849;UD Uyainah;Surabaya;Jawa Timur
+14/03/2024 13:15;PO-293790666;Saus Sambal;Bumbu Dapur;61.535;7;430.745;17;357.518;CV Megantara Tbk;Makassar;Sulawesi Selatan
+13/03/2024 12:26;PO-355195037;Saus Sambal;Bumbu Dapur;48.883;14;684.362;29;485.897;PT Fujiati Haryanti;Bandung;Jawa Barat
+13/01/2024 19:19;PO-132355615;Kecap Manis;Bumbu Dapur;87.107;8;696.856;20;557.485;PD Narpati Tbk;Yogyakarta;DI Yogyakarta
+10/04/2024 23:53;PO-676192991;Minyak Goreng;Sembako;64.360;16;1.029.760;29;731.130;PD Maulana Hassanah (Persero) Tbk;Semarang;Jawa Tengah
+04/07/2024 01:35;PO-774769624;Mie Instan;Makanan;52.811;10;528.110;2;517.548;CV Pranowo (Persero) Tbk;Yogyakarta;DI Yogyakarta
+27/01/2024 19:55;PO-255451601;Kopi;Minuman;10.781;19;204.839;5;194.597;UD Wibisono Aryani Tbk;Yogyakarta;DI Yogyakarta
+04/02/2024 21:13;PO-712991925;Beras;Sembako;20.340;9;183.060;5;173.907;CV Napitupulu Farida (Persero) Tbk;Yogyakarta;DI Yogyakarta
+20/02/2024 13:46;PO-441042307;Saus Sambal;Bumbu Dapur;28.257;16;452.112;12;397.859;PD Firmansyah;Balikpapan;Kalimantan Timur
+28/02/2024 01:54;PO-299276560;Kopi;Minuman;17.298;12;207.576;12;182.667;PT Nashiruddin Utama;Bandung;Jawa Barat
+16/01/2024 00:09;PO-675510659;Mie Instan;Makanan;13.372;7;93.604;21;73.947;CV Pradipta;Denpasar;Bali
+01/02/2024 03:58;PO-678161623;Beras;Sembako;5.420;16;86.720;29;61.571;Perum Irawan Tbk;Denpasar;Bali
+28/07/2024 22:45;PO-212363215;Gula;Sembako;83.991;2;167.982;2;164.622;PD Haryanti (Persero) Tbk;Jakarta;DKI Jakarta
+31/05/2024 23:08;PO-106871311;Tepung Terigu;Sembako;63.079;13;820.027;15;697.023;Perum Hasanah Lestari Tbk;Semarang;Jawa Tengah
+22/07/2024 17:23;PO-376691510;Saus Sambal;Bumbu Dapur;80.860;4;323.440;27;236.111;CV Sirait Santoso (Persero) Tbk;Balikpapan;Kalimantan Timur
+17/04/2024 01:05;PO-071478917;Tepung Terigu;Sembako;8.012;19;152.228;21;120.260;PT Marpaung;Balikpapan;Kalimantan Timur
+21/07/2024 15:26;PO-922575991;Teh;Minuman;10.396;16;166.336;7;154.692;PT Siregar (Persero) Tbk;Surabaya;Jawa Timur
+01/04/2024 11:02;PO-353175889;Gula;Sembako;4.918;4;19.672;7;18.295;PT Aryani Zulaika;Makassar;Sulawesi Selatan
+24/03/2024 13:49;PO-263711439;Minyak Goreng;Sembako;10.359;11;113.949;11;101.415;Perum Widodo Puspita;Jakarta;DKI Jakarta
+11/06/2024 21:18;PO-503959743;Mie Instan;Makanan;45.259;13;588.367;22;458.926;PD Nababan Sirait;Yogyakarta;DI Yogyakarta
+16/04/2024 21:09;PO-368044670;Mie Instan;Makanan;24.482;7;171.374;17;142.240;Perum Hutasoit;Denpasar;Bali
+23/06/2024 23:33;PO-817969825;Gula;Sembako;16.127;4;64.508;6;60.638;UD Nasyiah Tbk;Jakarta;DKI Jakarta
+10/07/2024 07:52;PO-140134359;Teh;Minuman;38.237;6;229.422;7;213.362;UD Dabukke (Persero) Tbk;Denpasar;Bali
+18/05/2024 18:54;PO-244241333;Gula;Sembako;80.701;12;968.412;18;794.098;UD Hutapea Pranowo;Surabaya;Jawa Timur
+01/02/2024 23:46;PO-492952838;Saus Sambal;Bumbu Dapur;9.752;1;9.752;28;7.021;CV Pangestu Tbk;Bandung;Jawa Barat
+05/05/2024 22:55;PO-355424073;Kopi;Minuman;81.041;12;972.492;11;865.518;UD Maryati Tbk;Makassar;Sulawesi Selatan
+14/02/2024 19:08;PO-046389186;Kecap Manis;Bumbu Dapur;72.331;9;650.979;19;527.293;PD Situmorang (Persero) Tbk;Yogyakarta;DI Yogyakarta
+07/07/2024 21:59;PO-066405837;Tepung Terigu;Sembako;51.624;11;567.864;17;471.327;UD Puspasari;Bandung;Jawa Barat
+10/05/2024 04:56;PO-545639093;Beras;Sembako;90.183;12;1.082.196;9;984.798;PT Haryanti;Surabaya;Jawa Timur
+14/03/2024 22:27;PO-811489962;Minyak Goreng;Sembako;41.133;6;246.798;29;175.227;PD Hardiansyah Zulkarnain Tbk;Makassar;Sulawesi Selatan
+04/04/2024 09:15;PO-669517626;Kecap Manis;Bumbu Dapur;94.790;16;1.516.640;14;1.304.310;PD Lazuardi Hutasoit (Persero) Tbk;Jakarta;DKI Jakarta
+07/01/2024 07:04;PO-751838141;Mie Instan;Makanan;56.153;9;505.377;21;399.248;PT Mangunsong Zulkarnain;Yogyakarta;DI Yogyakarta
